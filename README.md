@@ -13,7 +13,7 @@ A simple gallery showcasing several anaglyph 3D images created using the StereoP
 
 1. Clone the repository
 ```bash
-git clone https://github.com/Angelmmc/anaglyph-galery
+git clone https://github.com/Angelmmc/anaglyph-galery.git
 ```
 2. Navigate to the project folder
 ```bash
